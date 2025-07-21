@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}    
+    .kattasi{
+    background-color: black;
+    width: 1440px;
+    height: 99px;
+    padding: 20px;
+
+
+}
+.kor{
+    color: white;
+    margin-bottom:20px ;
+    text-align: center;
+    margin: auto;
+   
+    
+}
+.birde{
+text-align: right;
+margin: auto;
+padding-bottom: 23px;
+
+}
+.class{
+    color: black;
+
+    text-align: center;
+    background: #F1A900;
+width: 192px;
+height: 82px;
+padding-top: 30px ;
+}
+.terrible{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZG4IyQxHPc7dqIYc8Glc839yJVvdySh711Q&s);
+    width: 1440px;
+    height: 797px;
+    background-size: cover;
+   
+}
+.bir{
+    color: white;
+ padding-top: 100px;
+ background: #F1A900;
+  padding: 20px;
+  width: 235px;
+height: 73px;
+text-align: center  ;
+
+
+
+}
+.ikki{
+    background-color: black;
+    color: white;
+    padding: 20px;
+      width: 235px;
+height: 73px;
+display: flex
+;
+}
+.uchch{
+     padding: 100px;
+     color: white;
+     background: #F1A90054;
+     width: 966px;
+height: 202px;
+text-align: center;
+
+border-radius: 10px;
+
+
+}
